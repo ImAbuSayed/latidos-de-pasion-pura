@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-pasion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos de pasión pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-pura/) |
+| **Get License** | [Obtain a Music License for Latidos de pasión pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me captura en la barra de Madrid
+> Ese fuego en tus labios me ha dejado sin dormir
+> Esta noche es de nosotros, no lo puedes ocultar
+> Cada paso que tú das me acelera el respirar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
