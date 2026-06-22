@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-pasion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latidos de pasión pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-pura/) |
+| **Get License** | [License this song: Latidos de pasión pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4043)
 
 ---
 
